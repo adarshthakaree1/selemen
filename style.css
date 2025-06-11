@@ -105,8 +105,8 @@ nav button:hover{
     display: flex;
     align-items: center;
     flex-direction: column;
-     text-deoration: none;
     font-size:70px;
+    color: white;
 }
 #menu-page h4{
     text-transform: capitalize;
